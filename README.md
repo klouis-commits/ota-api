@@ -6,12 +6,6 @@
 3. [Prerequisites](#prerequisites)
 4. [Running the Application](#running-the-application)
 5. [Usage](#usage)
-8. [Testing](#testing)
-9. [Deployment](#deployment)
-10. [Troubleshooting](#troubleshooting)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Contact](#contact)
 
 ## Introduction
 A simple backend for a note-taking application using either Spring-boot, built with a simple in-memory map.
