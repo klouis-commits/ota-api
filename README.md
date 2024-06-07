@@ -45,18 +45,12 @@ git clone https://github.com/klouis-commits/ota-api.git
 ### Via Eclipse IDE
 
 1. Import/Open project in Eclipse IDE
-- Right-click project folder in Project Explorer of Eclipse, then select 'Run As' -> 'Spring Boot App'
-<p>
-	<img src="readmefiles/pic1.png" alt="Running Spring Boot App via Eclipse" width="500px">
-</p>
-- Application should be running when the following logs are shown in the Console: "Completed initialization..."
-<p>
-	<img src="readmefiles/pic2.png" alt="Running Logs via Console in Eclipse" width="700px">
-</p>
-- Application should be running on port 8080; access the served REST APIs by using REST Client Tools (like Postman or Apidog)
-<p>
-	<img src="readmefiles/pic3.png" alt="Test via Apidog" width="700px">
-</p>
+    - Right-click project folder in Project Explorer of Eclipse, then select 'Run As' -> 'Spring Boot App'
+        <p><img src="readmefiles/pic1.png" alt="Running Spring Boot App via Eclipse" width="500px"></p>
+    - Application should be running when the following logs are shown in the Console: "Completed initialization..."
+        <p><img src="readmefiles/pic2.png" alt="Running Logs via Console in Eclipse" width="700px"></p>
+    - Application should be running on port 8080; access the served REST APIs by using REST Client Tools (like Postman or Apidog)
+        <p><img src="readmefiles/pic3.png" alt="Test via Apidog" width="700px"></p>
 
 ### Via CLI (Maven)
 
